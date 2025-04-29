@@ -60,7 +60,7 @@ custom-meta-sidebar/ ├── sidebar.js (Main JavaScript file for the sidebar 
 
 ## Credits
 
-Developed by Jennifer Vobis (SheSays team)
+Developed by Jennifer Vobis
 
 ---
 
