@@ -1,0 +1,13 @@
+.meta-panel--invalid {
+	border: 2px solid #d63638 !important;
+	padding: 12px !important;
+	border-radius: 6px;
+	background-color: #fff5f5;
+}
+
+.meta-panel.meta-panel--valid {
+	border: 2px solid #fed500 !important;
+	padding: 12px !important;
+	border-radius: 6px;
+	background-color: #fff9d6;
+}
